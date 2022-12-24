@@ -14,3 +14,5 @@ GitLab implementation
 '.js-discussions-previewable-comment-form' can be found on git community post, but not on PR
 
 discussions/previewable-comment.ts only on community - almost all of discussions/ folder content missing on PR
+
+'.js-discussions-comment-actions-rendered-button' is being observed
